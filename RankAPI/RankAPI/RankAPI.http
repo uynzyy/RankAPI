@@ -1,0 +1,6 @@
+@RankAPI_HostAddress = http://localhost:5114
+
+GET {{RankAPI_HostAddress}}/rank/
+Accept: application/json
+
+###
